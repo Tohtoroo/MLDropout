@@ -1,2 +1,2 @@
 # MLDropout
-STOR565 Machine Learning Project
+STOR 565 Machine Learning Project
